@@ -1,0 +1,11 @@
+name: Notebook CI
+
+on: [push, pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate notebook
+        run: python -m json.tool Diabetes.ipynb >/dev/null

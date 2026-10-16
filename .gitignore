@@ -1,0 +1,14 @@
+
+
+# Local state and material excluded from portfolio publication
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+private-course-materials/
+*.class
+
+# Authorized local inputs stay local
+diabetes.csv
+local-data/
