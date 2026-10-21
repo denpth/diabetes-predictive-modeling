@@ -10,4 +10,4 @@ The notebook is historical: it fitted scaling before splitting and has not been 
 
 ## Publication scope
 
-Course requirements and third-party data are distinct from my implementation. The portfolio no longer lists this project in its active index or sitemap while data provenance remains unresolved. Source, permissions, and a defensible new evaluation would be needed before restoring prominence.
+Course requirements and third-party data are distinct from my implementation. The portfolio lists this project at https://pothier.dev/projects/diabetes-predictive-modeling/. Source, permissions, and a defensible new evaluation would be needed before restoring prominence.
